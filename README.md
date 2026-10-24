@@ -4,7 +4,7 @@ Landing en español con ejemplos vectoriales interactivos, instalación asistida
 
 **Sitio:** https://mauricioperera.github.io/proyecciones-svg-site/
 
-Este repositorio contiene únicamente la página estática y ejemplos ilustrativos. La skill y su release 1.0.0 son públicas en [MauricioPerera/proyecciones-svg](https://github.com/MauricioPerera/proyecciones-svg). La landing ofrece enlaces directos al ZIP, al instalador Python y a las sumas SHA-256, sin iniciar sesión.
+Este repositorio contiene únicamente la página estática y ejemplos ilustrativos. La skill y su release 1.0.1 son públicas en [MauricioPerera/proyecciones-svg](https://github.com/MauricioPerera/proyecciones-svg). La landing ofrece enlaces directos al ZIP, al instalador Python y a las sumas SHA-256, sin iniciar sesión.
 
 ## Vista previa local
 
